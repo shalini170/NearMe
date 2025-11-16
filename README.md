@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 map.html
 
 <!doctype html>
@@ -200,7 +201,7 @@ sipcot.html
         </body>
 </html>
 
-
+```
 ## OUTPUT
 ![alt text](<bakkiya/Screenshot 2025-11-16 204011.png>)
 ![alt text](<bakkiya/Screenshot 2025-11-16 210516.png>)
